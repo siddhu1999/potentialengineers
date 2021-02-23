@@ -238,10 +238,11 @@
 
 .u-section-2 .u-text-1 {
   width: 740px;
-  font-size: 3.75rem;
+  font-size: 3rem;
   line-height: 66px;
   animation-duration: 1000ms;
   font-weight: 700;
+  font-family: Lobster, cursive;
   margin: 73px auto 0;
 }
 
@@ -426,10 +427,6 @@
     min-height: 697px;
   }
 
-  .u-section-2 .u-text-1 {
-    font-family: Lobster, cursive;
-  }
-
   .u-section-2 .u-list-1 {
     min-height: 489px;
     grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
@@ -475,7 +472,6 @@
 
   .u-section-2 .u-text-1 {
     line-height: 1;
-    font-size: 3rem;
   }
 
   .u-section-2 .u-container-layout-1 {

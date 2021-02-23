@@ -240,9 +240,8 @@
   width: 740px;
   font-size: 3.75rem;
   line-height: 66px;
-  font-family: Akronim;
-  font-weight: 700;
   animation-duration: 1000ms;
+  font-weight: 700;
   margin: 73px auto 0;
 }
 
@@ -425,6 +424,10 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 697px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-family: Lobster, cursive;
   }
 
   .u-section-2 .u-list-1 {
@@ -712,9 +715,8 @@
 }
 
 .u-section-4 .u-text-1 {
-  margin-top: 0;
   font-weight: 700;
-  margin-bottom: 0;
+  margin: 0 0 0 363px;
 }
 
 .u-section-4 .u-btn-1 {
@@ -747,7 +749,6 @@
   .u-section-4 .u-text-1 {
     width: auto;
     margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-4 .u-btn-1 {
